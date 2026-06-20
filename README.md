@@ -6,7 +6,7 @@
 
 📍 Hyderabad, Telangana, India
 📧 sohelmohammad3107@gmail.com
-🔗 https://www.linkedin.com/in/mohammad-sohel-375592391
+🔗 www.linkedin.com/in/mohammad-sohel-375592391
 ---
 
 ## 🧑‍💻 About Me
