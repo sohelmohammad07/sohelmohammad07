@@ -21,6 +21,13 @@ Currently expanding my skills through the **Professional Data Analyst Program at
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## 🌱 Currently Learning
+
+- Advanced SQL & Window Functions
+- Power BI Dashboard Design
+- Data Storytelling
+- Machine Learning Fundamentals
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohelmohammad07)
 ## 🛠️ Technical Skills
 
 | Area | Tools & Technologies |
@@ -32,7 +39,17 @@ Currently expanding my skills through the **Professional Data Analyst Program at
 | **Other** | Excel, Web Scraping (BeautifulSoup, Requests), Matplotlib, Seaborn, Git |
 
 ---
+## 📁 Portfolio
 
+### Power BI Dashboards
+- Telecom Customer Churn Dashboard
+
+### SQL Projects
+- Grocery Store Management Analytics
+
+### Python Projects
+- Restaurant Market Analysis
+- Food Delivery Hackathon Analysis
 ## 📂 Featured Projects
 
 ### 🛒 [Grocery Store Management System (SQL)](https://github.com/sohelmohammad07/Grocery-store-management-system-using-SQL)
